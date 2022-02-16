@@ -1,0 +1,18 @@
+.translate {
+    transform: scale(2);
+}
+
+#A1:hover {
+  transition: 5s ;
+    transform: rotate(20deg);
+}
+
+#A2:hover {
+transition: 2s;
+transform: rotate(180deg);
+}
+
+#A3:hover {
+transition: 1s;
+transform: rotate(330deg);
+}
